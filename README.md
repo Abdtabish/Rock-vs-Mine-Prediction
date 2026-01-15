@@ -46,9 +46,9 @@ Mine vs rock prediction/ │ └── Sonar Data.csv │ ├── mine_vs_rock
 The model achieves good accuracy in distinguishing between mines and rocks based on sonar features, demonstrating the effectiveness of logistic regression for binary classification tasks.
 
 ▶️ How to Run the Project
-Clone this repository: `bash git clone https://github.com/your-username/kindle-review-analysis.git
+Clone this repository: `bash git clone https://github.com/Abdtabish/Rock-vs-Mine-Prediction
 Navigate to the project folder:
-cd kindle-review-analysis
+cd Rock-vs-Mine-Prediction
 
 Install dependencies:
 pip install -r requirements.txt
